@@ -6,10 +6,10 @@ Git Commands
 
 
  git add
-
+git add "Git Commands.txt"
 
  git commit
-
+git commit -m "Git learning"
 
  git branch
 
@@ -28,3 +28,10 @@ Git Commands
 
  git rm --cached -f "Git Commands.txt"
 (forced to removed )
+
+
+git remote add origin "https://github.com/nishikant481/GitLearning.git"
+
+Push command
+
+git push -u origin main
