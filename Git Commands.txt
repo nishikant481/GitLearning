@@ -1,0 +1,30 @@
+Git Commands
+
+ git status
+
+ git init
+
+
+ git add
+
+
+ git commit
+
+
+ git branch
+
+
+ git config
+
+
+ git merge
+
+
+ git checkout
+
+
+(untrack the file)
+ git rm --cached <file>
+
+ git rm --cached -f "Git Commands.txt"
+(forced to removed )
